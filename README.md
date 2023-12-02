@@ -1,0 +1,1 @@
+small project is about connecting gulp, babel and npm automatically with vs that helps the project be updated.
